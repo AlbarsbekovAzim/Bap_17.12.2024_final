@@ -1,18 +1,18 @@
 // Исходные данные
-// const logData = [
-//     { user: "User2", time: "2024-12-01 12:00", action: "login" },
-//     { user: "User1", time: "2024-12-01 13:30", action: "logout" },
-//     { user: "User3", time: "2024-12-01 14:00", action: "login" },
-//     { user: "User2", time: "2024-12-01 16:00", action: "logout" },
-//     { user: "User1", time: "2024-12-01 17:00", action: "login" },
-//     { user: "User3", time: "2024-12-01 17:30", action: "logout" },
-//     { user: "User3", time: "2024-12-01 17:30", action: "logout" },
-//     { user: "User1", time: "2024-12-01 18:30", action: "logout" },
-//     { user: "User1", time: "2024-12-02 01:30", action: "login" },
-//     { user: "User4", time: "2025-08-02 01:30", action: "login" },
-//     { user: "User4", time: "2025-12-02 01:30", action: "login" },
-//     { user: "User4", time: "2029-12-02 01:30", action: "logout" },
-// ];
+const logData = [
+    { user: "User2", time: "2024-12-01 12:00", action: "login" },
+    { user: "User1", time: "2024-12-01 13:30", action: "logout" },
+    { user: "User3", time: "2024-12-01 14:00", action: "login" },
+    { user: "User2", time: "2024-12-01 16:00", action: "logout" },
+    { user: "User1", time: "2024-12-01 17:00", action: "login" },
+    { user: "User3", time: "2024-12-01 17:30", action: "logout" },
+    { user: "User3", time: "2024-12-01 17:30", action: "logout" },
+    { user: "User1", time: "2024-12-01 18:30", action: "logout" },
+    { user: "User1", time: "2024-12-02 01:30", action: "login" },
+    { user: "User4", time: "2025-08-02 01:30", action: "login" },
+    { user: "User4", time: "2025-12-02 01:30", action: "login" },
+    { user: "User4", time: "2029-12-02 01:30", action: "logout" },
+];
 
 
 // Шаг 1: Сортировка логов по времени
